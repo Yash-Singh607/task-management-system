@@ -4,15 +4,31 @@
 
 | | |
 |---|---|
-| **Project Type** | College Mini Project |
+| **Course** | MP Online Internship — Software Development |
+| **Batch** | 10B |
+| **Project Type** | Internship Project Submission |
 | **Author** | Yash Singh ([@Yash-Singh607](https://github.com/Yash-Singh607)) |
 | **Technologies** | HTML · CSS · JavaScript · Python (Flask) · MySQL |
 
 ---
 
+## Project Details
+
+| Field | Information |
+|-------|-------------|
+| **Programme** | MP Online Internship Programme |
+| **Course** | Software Development |
+| **Batch** | 10B |
+| **Project Title** | Task Management System (TaskFlow) |
+| **Submitted By** | Yash Singh |
+
+> This project is developed as part of the **MP Online Internship — Software Development Course (Batch 10B)**, demonstrating practical skills in front-end development, Python back-end programming, and MySQL database management.
+
+---
+
 ## Abstract
 
-TaskFlow is a browser-based **Task Management System** designed for organizations where **Admin** and **Manager** users assign work to employees, monitor completion status, and view analytics — all backed by a relational **MySQL** database.
+TaskFlow is a browser-based **Task Management System** submitted for the **MP Online Internship — Software Development Course (Batch 10B)**. It is designed for organizations where **Admin** and **Manager** users assign work to employees, monitor completion status, and view analytics — all backed by a relational **MySQL** database.
 
 The system follows a classic **three-tier architecture**: a responsive front-end (HTML/CSS/JS), a Python **Flask** middleware layer that handles authentication and REST APIs, and a **MySQL** database with normalized tables and foreign-key relationships.
 
@@ -300,11 +316,12 @@ task-management-system/
 
 ## License
 
-This project was developed as a **college academic submission**. Free to use for educational purposes.
+This project was developed as part of the **MP Online Internship — Software Development Course, Batch 10B**. Free to use for educational purposes.
 
 ---
 
 <p align="center">
-  <strong>TaskFlow</strong> — Built with Flask & MySQL<br>
-  <sub>Submitted by Yash Singh · 2025</sub>
+  <strong>TaskFlow</strong> — Task Management System<br>
+  <sub>MP Online Internship · Software Development · Batch 10B</sub><br>
+  <sub>Submitted by Yash Singh</sub>
 </p>
